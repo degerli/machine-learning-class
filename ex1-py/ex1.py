@@ -78,6 +78,8 @@ def main():
 
 
 
+
+
     # plt.xlabel('Number of iterations')
     # plt.ylabel('Cost J')
     # plt.plot(range(0, 50), J_history[0:50])

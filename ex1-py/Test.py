@@ -1,3 +1,7 @@
-from warmUpExercise import warm_up_exercise
+import numpy as np
+import matplotlib.pyplot as plt
 
-print(warm_up_exercise(5))
+x = np.arange(9).reshape(3, 3)
+print(x)
+
+print(np.where(x > 4))
